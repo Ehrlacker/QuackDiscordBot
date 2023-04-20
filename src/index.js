@@ -1,5 +1,5 @@
 require("dotenv").config()
-const { Client, IntentsBitField } = require("discord.js")
+import { Client, IntentsBitField } from 'discord.js'
 import axios from "axios"
 
 //'client' is our bot
