@@ -1,6 +1,8 @@
-require("dotenv").config()
+import * as dotenv from 'dotenv'
 import { Client, IntentsBitField } from 'discord.js'
 import axios from "axios"
+
+dotenv.config()
 
 //'client' is our bot
 const client = new Client({
