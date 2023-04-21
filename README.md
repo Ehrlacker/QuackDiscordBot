@@ -4,17 +4,16 @@
 
 ## Technology Used
 * Discord.js
-* Express and Node
+* Node
 * Git and GitHub
 
 ## Group Members
 #### Matthew Ehrlich, Catherine Matson, Eric Winkelspecht
 
 ## IceBox 
-- [x] make joke prompt case sensitive
 - [ ] user can request a specific type of joke (knock knock or pun, for example)
 
 ## Acknowledgements
-* API website 
+* API website <a href="https://sv443.net/jokeapi/v2/" title="jokes">Jokeapi</a>
 * Logo <a href="https://www.flaticon.com/free-icons/duck" title="duck icons">Duck icons created by Freepik - Flaticon</a>
 
